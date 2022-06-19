@@ -6,7 +6,7 @@ import VistaCarrito from './js/vistas/VistaCarrito.js';
 import $, * as tools from './js/tools.js';
 
 /* Declaracion principal */
-const mainPath = 'http://api.c2191146.ferozo.com/'; // ruta principal de carga
+const mainPath = 'https://vanoyen.com.ar/'; // ruta principal de carga
 const path = mainPath + 'api/fotos/'; // ruta fotos.
 const myOffcanvasMenu = $("#offCanvasMenu");
 const menu = new bootstrap.Offcanvas(myOffcanvasMenu);
